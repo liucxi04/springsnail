@@ -1,0 +1,13 @@
+Listen 127.0.0.1:12345
+
+<logical_host>
+  <name>59.111.181.35</name>
+  <port>80</port>
+  <conns>2</conns>
+</logical_host>
+
+<logical_host>
+  <name>59.111.181.38</name>
+  <port>80</port>
+  <conns>2</conns>
+</logical_host>
